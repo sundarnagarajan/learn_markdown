@@ -57,7 +57,7 @@ version = 3.11.7
 
 
 # Normal links
-1. [Basic writing and formatting syntax] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links Basic writing and formatting syntax)
+1. [Basic writing and formatting syntax] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links "Basic writing and formatting syntax")
 2. [Daring Fireball's markdown syntax] (https://daringfireball.net/projects/markdown/syntax#backslash)
 3. [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
 
