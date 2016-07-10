@@ -27,3 +27,7 @@ def myfunc(*args, **kwargs):
     print k, v
 ```
 
+# References
+1. [Basic writing and formatting syntax] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
+2. [Daring Fireball's markdown syntax] (https://daringfireball.net/projects/markdown/syntax#backslash)
+3. [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
