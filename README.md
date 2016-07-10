@@ -35,6 +35,8 @@ def myfunc(*args, **kwargs):
 
 A different way of using reference-style links. The links in this paragraph are REFERENCES to links in the UNTITLED section below. This is a reference to [Basic writing][1], while [this][2] is a reference to Daring Fireball's article. [This is a link to 3. Mastering Markdown][3].
 
+## Emojis
+* :elephant:
 
 [//]: # (List of links. This line is a comment, but the remaining are required for references to work)
 [//]: # (===============================================================================================)
