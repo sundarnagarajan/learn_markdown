@@ -47,6 +47,17 @@ alias mv='mv -i'
 alias cp='cp -i'
 alias ping='ping -i 0.2 -n'
 ```
+## Syslog messages
+```log
+2016-07-09T16:53:19.085661-07:00 smaug kernel: [   16.727105] init: smbd main process ended, respawning
+2016-07-09T16:53:19.165656-07:00 smaug kernel: [   16.805907] systemd-udevd[1160]: renamed network interface rename4 to eth3
+2016-07-09T16:53:23.089648-07:00 smaug kernel: [   20.729693] init: failsafe main process (1971) killed by TERM signal
+2016-07-09T16:53:23.128175-07:00 smaug polkitd[2636]: started daemon version 0.105 using authority implementation `local' version `0.105'
+2016-07-09T16:53:33.629647-07:00 smaug kernel: [   31.268237] init: plymouth-stop pre-start process (6893) terminated with status 1
+2016-07-09T16:53:35.529716-07:00 smaug udisksd[7321]: udisks daemon version 2.1.3 starting
+2016-07-09T16:53:35.630875-07:00 smaug udisksd[7321]: Acquired the name org.freedesktop.UDisks2 on the system message bus
+```
+
 
 # Normal links
 1. [Basic writing and formatting syntax] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
