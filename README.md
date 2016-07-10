@@ -28,15 +28,11 @@ def myfunc(*args, **kwargs):
 ```
 
 # References
-1. [Basic writing and formatting syntax] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
-2. [Daring Fireball's markdown syntax] (https://daringfireball.net/projects/markdown/syntax#backslash)
-3. [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
-
-A different way of using reference-style links. The links in this paragraph are REFERENCES to links in the *Alternate References* section below. This is a reference to [Basic writing][1], while [this][2] is a reference to Daring Fireball's article. [This is a link to 3. Mastering Markdown][3].
-
-# Alternate references References style
 [1]. [Basic writing and formatting syntax] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)  
 [2]. [Daring Fireball's markdown syntax] (https://daringfireball.net/projects/markdown/syntax#backslash)  
 [3]. [Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)  
+
+A different way of using reference-style links. The links in this paragraph are REFERENCES to links in the *References* section above. The link definitions apparently have tome BEFORE the references (makes sense). This is a reference to [Basic writing][1], while [this][2] is a reference to Daring Fireball's article. [This is a link to 3. Mastering Markdown][3].
+
 
 
