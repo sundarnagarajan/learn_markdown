@@ -36,6 +36,18 @@ total 16
 -rw-r--r-- 1 sundar users 957 Jul  9 19:12 weather_client.py
 -rw-r--r-- 1 sundar users 785 Jul  9 19:27 weather_server.py
 ```
+
+## Bash with syntax highlighting
+```bash
+alias c=clear
+alias l='ls -AFC'
+alias ll='ls -AFCl --time-style="+%Y-%b-%d %H:%M:%S"'
+alias rm='rm -i'
+alias mv='mv -i'
+alias cp='cp -i'
+alias ping='ping -i 0.2 -n'
+```
+
 # Normal links
 1. [Basic writing and formatting syntax] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
 2. [Daring Fireball's markdown syntax] (https://daringfireball.net/projects/markdown/syntax#backslash)
