@@ -27,6 +27,15 @@ def myfunc(*args, **kwargs):
     print k, v
 ```
 
+## Terminal output
+```terminal
+(try2)sundar@smaug:~/tmp/zeromq$ ls -l
+total 16
+-rw-r--r-- 1 sundar users 579 Jul  9 19:06 client.py
+-rw-r--r-- 1 sundar users 467 Jul  9 19:04 server.py
+-rw-r--r-- 1 sundar users 957 Jul  9 19:12 weather_client.py
+-rw-r--r-- 1 sundar users 785 Jul  9 19:27 weather_server.py
+```
 # Normal links
 1. [Basic writing and formatting syntax] (https://help.github.com/articles/basic-writing-and-formatting-syntax/#links)
 2. [Daring Fireball's markdown syntax] (https://daringfireball.net/projects/markdown/syntax#backslash)
