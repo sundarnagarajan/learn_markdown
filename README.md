@@ -37,7 +37,7 @@ A different way of using reference-style links. The links in this paragraph are 
 
 
 [//]: # (List of links. This line is a comment, but the remaining are required for references to work)
-[//]: # ===============================================================================================
+[//]: # (===============================================================================================)
 [1]: https://help.github.com/articles/basic-writing-and-formatting-syntax/#links (Basic writing and formatting syntax)  
 [2]: https://daringfireball.net/projects/markdown/syntax#backslash (Daring Fireball's markdown syntax)  
 [3]: https://guides.github.com/features/mastering-markdown/ (Mastering Markdown)  
